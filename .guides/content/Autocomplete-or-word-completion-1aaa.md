@@ -1,1 +1,1 @@
-he source code editor predicts a word or phrase that the user wants to type in without the user actually typing it in completely, for example if the user types a ‘p’, the editor might suggest the word ‘print’.
+The source code editor predicts a word or phrase that the user wants to type in without the user actually typing it in completely, for example if the user types a ‘p’, the editor might suggest the word ‘print’.
