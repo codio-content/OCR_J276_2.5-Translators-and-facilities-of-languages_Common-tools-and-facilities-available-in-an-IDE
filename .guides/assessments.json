@@ -1,0 +1,98 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1532492583",
+  "source": {
+   "name": "Question 1",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "An IDE or <<<Integrated>>> <<<Development>>> <<<Environment>>> provides <<<tools>>> to develop software more <<<efficiently>>>.",
+   "tokens": {
+    "blank": [
+     "Integrated",
+     "Development",
+     "Environment",
+     "tools",
+     "efficiently"
+    ],
+    "text": [
+     "An IDE or ",
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     " provides ",
+     0,
+     " to develop software more ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1238194695",
+  "source": {
+   "name": "Question 2",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "The <<<editor>>> provides facilities such as <<<syntax>>> highlighting and <<<bracket>>> matching. It will also automatically <<<indent>>> the line if it is required.",
+   "tokens": {
+    "blank": [
+     "editor",
+     "syntax",
+     "bracket",
+     "indent"
+    ],
+    "text": [
+     "The ",
+     0,
+     " provides facilities such as ",
+     0,
+     " highlighting and ",
+     0,
+     " matching. It will also automatically ",
+     0,
+     " the line if it is required."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2507505503",
+  "source": {
+   "name": "Question 3",
+   "showName": true,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "The <<<error>>> diagnostics tool includes facilities such as <<<single-stepping>>> so that single statements can be evaluated and <<<breakpoints>>> which allow the program to be stopped at certain points. The values of variables can be followed throughout a program using the variable <<<tracing>>> facility.",
+   "tokens": {
+    "blank": [
+     "error",
+     "single-stepping",
+     "breakpoints",
+     "tracing"
+    ],
+    "text": [
+     "The ",
+     0,
+     " diagnostics tool includes facilities such as ",
+     0,
+     " so that single statements can be evaluated and ",
+     0,
+     " which allow the program to be stopped at certain points. The values of variables can be followed throughout a program using the variable ",
+     0,
+     " facility."
+    ]
+   }
+  }
+ }
+]

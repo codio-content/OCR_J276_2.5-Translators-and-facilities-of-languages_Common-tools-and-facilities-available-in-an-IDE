@@ -1,0 +1,95 @@
+{
+ "sections": [
+  {
+   "id": "f4398ef7-7b8c-bdcb-687f-77e8bbd0deed",
+   "title": "Common tools and facilities available in an integrated development environment (IDE)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Common-tools-and-facilities-available-in-an-integrated-development-environment--IDE--f439.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6cecd544-c269-e0b0-e525-2137d1aa57f9",
+   "title": "Source code editor",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Source-code-editor-6cec.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1aaa64a9-1e98-7001-a1cd-a55b06facae3",
+   "title": "Autocomplete or word completion",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Autocomplete-or-word-completion-1aaa.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "be30c38e-e65f-f5c6-f652-ecf90491981e",
+   "title": "Error diagnostics",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Error-diagnostics-be30.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2ade7bc8-084c-b288-fbcf-dc97078ad14c",
+   "title": "Run-time environment",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Run-time-environment-2ade.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "bfaf24af-0319-48fd-3271-dc4fe586e491",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-bfaf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "18b53f9c-1094-e304-4758-19d63246d9e0",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-18b5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "470fd5c7-6946-81bd-b3ee-0183f59973db",
+   "title": "Extended Learning",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Extended-Learning-470f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
